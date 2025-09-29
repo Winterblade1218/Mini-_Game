@@ -6,7 +6,7 @@ public class PlayerControl : MonoBehaviour
     public float speed = 10.0f;
     public float xRange = 10.0f;
     private float forwardInput;
-    private float turnSpeed = 50.0f;
+    private float turnSpeed = 100.0f;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

@@ -8,7 +8,7 @@ public class spawn : MonoBehaviour
     private float spawnY = 5;
     private float startDelay = 2;
 
-    private float spawnInterval = 1.5f;
+    private float spawnInterval = 0.7f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
